@@ -1,0 +1,4 @@
+# ninja log v5
+1	716	6755765748241441	src/CMakeFiles/Util.dir/main.cpp.obj	9bd743e8c392a232
+716	3736	6755765752601056	../../../build/win64/Debug/Util.exe	3d62cbc3abd0cedb
+0	11	0	clean	5709c8a1ea2ac1d

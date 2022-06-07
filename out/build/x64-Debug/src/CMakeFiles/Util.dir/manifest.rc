@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "E:/pkpm/1.Converters/Tool/out/build/x64-Debug/src/CMakeFiles/Util.dir/embed.manifest"
